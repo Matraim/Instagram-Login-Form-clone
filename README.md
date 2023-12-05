@@ -4,7 +4,7 @@ Bu depo, Instagram giriş formunun bir klonunu içermektedir. Default, Process v
 
 ## 1. Default
 
-![Default](./assets/Снимок экрана 2023-11-29 в 14.29.1.png)
+![Default]('https://media.licdn.com/dms/image/C4E12AQEVS2Tj0GR_iw/article-cover_image-shrink_720_1280/0/1631386389304?e=2147483647&v=beta&t=Pik-ZxGRgVrcv1kqcBtAp1XBUsxISowTihJdEhTaaQQ')
 
 ## 2. Process
 
